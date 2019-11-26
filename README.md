@@ -6,6 +6,6 @@
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App] https://repl.it/@LilyRoskam/My-app-that-halfway-works
 
 [Project Board](../../projects/1)
