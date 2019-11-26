@@ -2,7 +2,8 @@
 
 [Value Proposition]
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+  [For patients who need to contact their physicians for minor problems, questions, or updates on how they are feeling, a messaging application between doctor and patient allows privacy between both parties, and a quick response time.]
+ 
 
 ## Links
 
