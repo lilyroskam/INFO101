@@ -7,6 +7,6 @@ Value Proposition
 
 ## Links
 
-[Live App] https://repl.it/@LilyRoskam/My-app-that-halfway-works
+[Live App] https://repl.it/@LilyRoskam/INFO-101-FINAL 
 
 [Project Board](../../projects/1)
